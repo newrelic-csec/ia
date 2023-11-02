@@ -1,6 +1,6 @@
 = New Relic Infrastructure Agent
 
-Test FOSSA
+Test FOSSA with PR
 
 Gem for collecting memcached, disk, cpu and IO statistics.  Collected
 stats are sent to the New Relic RPM application.
